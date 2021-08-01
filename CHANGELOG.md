@@ -1,6 +1,7 @@
 ## Change Log
 
 ### 0.19.5: January 24, 2021\n
+
 - Enhancement: Add 1 Max Rep in graph (#185 - Thank you @realGWM)
 - Enhancement: Updated graph function - view rep count (#182)
 - Enhancement: Added Russian language (#187 - Thank you @zayn1991)
